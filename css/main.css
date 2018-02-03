@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100%;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.coming-soon {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.coming-soon img {
+    height: 300px;
+}
+
+.coming-soon h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+.coming-soon h1 small {
+    font-size: 25px;
+}
+
+.social-icons {
+    margin-bottom: 40px;
+}
+
+.social-icons a {
+    color: #7d7d7d;
+    text-decoration: none;
+}
+
+.social-icons svg {
+    transition: transform .1s;
+}
+
+.social-icons svg:hover {
+    transform: scale(1.26);
+}
+
+.social-icons svg:focus {
+    transform: scale(1.26);
+}
