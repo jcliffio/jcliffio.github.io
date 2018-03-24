@@ -10,7 +10,7 @@ layout: home
         padding: 15px;
         background-color: #fdfdfd;
         border-top: 5px solid #e74c3c;
-        box-shadow: 2px 2px 8px #ccc;
+        box-shadow: 2px 2px 4px #ccc;
         border-radius: 2px;
         transition: all .1s;
     }

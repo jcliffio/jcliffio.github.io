@@ -1,5 +1,9 @@
 .bundle
 _site
+
 .sass-cache
 .jekyll-metadata
 *.gem
+yarn-error.log
+
+node_modules

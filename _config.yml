@@ -1,8 +1,9 @@
 
-title: jCliff.io
+title: jcliff.io
+author: Josh Clifford
 email: joshua.clifford91@gmail.com
 description: >-
-  jCliff.io is a personal/blog site for Josh Clifford.
+  I'm just a dude, playing a dude, disguised as another dude.
 baseurl: "/"
 url: "https://jcliff.io"
 permalink: /blog/:year/:month/:day/:title
