@@ -4,6 +4,10 @@
   "_themed-bootstrap",
   "_variables";
 
+body {
+  background-image: url("/images/backgrounds/geometry.png");
+}
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {

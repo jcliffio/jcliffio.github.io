@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
 
 <style>
@@ -28,9 +28,13 @@ layout: home
     }
 </style>
 
-<div class="widget widget-hover">
-    <h1 class="widget-title">This is a header</h1>
-    <p class="widget-content">
-        This is just some content that I want to put in this widget. No real purpose for this content other than taking up space.
-    </p>
+<div class="row">
+    <div class="col-sm-6">
+        <div class="widget widget-hover">
+            <h2 class="widget-title">This is a header</h2>
+            <p class="widget-content">
+                This is just some content that I want to put in this widget. No real purpose for this content other than taking up space.
+            </p>
+        </div>
+    </div>
 </div>
